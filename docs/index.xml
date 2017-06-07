@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Souza</title>
+    <link>https://yourfriendjeff.com/</link>
+    <description>Recent content on Jeff Souza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 May 2017 04:05:25 -0600</lastBuildDate>
+    
+	<atom:link href="https://yourfriendjeff.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Boy and His Beard</title>
+      <link>https://yourfriendjeff.com/projects/aboyandhisbeard/</link>
+      <pubDate>Sun, 28 May 2017 04:05:25 -0600</pubDate>
+      
+      <guid>https://yourfriendjeff.com/projects/aboyandhisbeard/</guid>
+      <description>Steam We have been Greenlit on Steam
+itch.io An alpha build is also available for download on itch.io
+Trailer Watch the trailer on YouTube</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yourfriendjeff.com/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yourfriendjeff.com/posts/</guid>
+      <description>    </description>
+    </item>
+    
+  </channel>
+</rss>
